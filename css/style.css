@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+  background-color: #8a9297;
+}
+
+h1 {
+  text-align: center;
+  color: #ffffff;
+  border: 1px solid #fff;
+  padding: 20px;
+  width: 500px;
+  margin: auto;
+}
+
+.container {
+  margin: 60px auto;
+  max-width: 1000px;
+  display: flex;
+  justify-content: center;
+}
